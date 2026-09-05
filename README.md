@@ -12,7 +12,7 @@ The program is started like project only for self using, but i wanted to public 
 
 **Q: How to use it?**
 
-A: Type "python tmrm.py --min (minimum star rate) --max (maximum star rate) --status (RANKED or UNRANKED)"
+A: Type "python rhythia_downloader.py --min (minimum star rate) --max (maximum star rate) --status (RANKED or UNRANKED)"
 
 **Q: Why its not working?!**
 
